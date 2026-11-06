@@ -1,0 +1,994 @@
+[
+  {
+    "title": "Rdza",
+    "year": "1943",
+    "slug": "rdza-1943",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Poezja",
+    "intro": "Konspiracyjny tom wierszy. W 1948 wznowiony jako „Wiersze”."
+  },
+  {
+    "title": "Bal w agreście",
+    "year": "1944",
+    "slug": "bal-w-agrescie-1944",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Dla dzieci",
+    "intro": "Wiersze dla dzieci z ilustracjami autora.",
+    "notes": "Zestawienie Wikipedii podaje rok 1944; bibliografia IBL PAN datuje wydanie na [1943]. Zachowano rok używany w dotychczasowej bibliografii strony."
+  },
+  {
+    "title": "Porwanie w Tiutiurlistanie",
+    "year": "1946",
+    "slug": "porwanie-w-tiutiurlistanie-1946",
+    "covers": [
+      "zdjecia/okladki/images/porwanie.jpg",
+      "zdjecia/okladki/images/porwanie2.jpg",
+      "zdjecia/okladki/images/porwanie3.jpg",
+      "zdjecia/okladki/images/porwanie4.jpg",
+      "zdjecia/okladki/images/porwanie5.jpg"
+    ],
+    "related": [
+      {
+        "url": "filmy/porwanie.htm",
+        "title": "Film animowany"
+      },
+      {
+        "url": "teksty/porwanie.htm",
+        "title": "Wydanie ilustrowane"
+      },
+      {
+        "url": "teksty/porw.htm",
+        "title": "Książka do słuchania"
+      },
+      {
+        "url": "ksiazki/na-tronie-w-blabonie-1986.html",
+        "title": "Dalszy ciąg: Na tronie w Blabonie"
+      }
+    ],
+    "intro": "Kogut Marcin Pypeć, kot Mysibrat i lisica Chytraska wyruszają na pomoc porwanej królewnie Wiolince. Ich przyjaźń i pomysłowość wystawione zostają na próbę w baśniowym świecie dwóch sąsiadujących królestw.",
+    "notes": "W 1976 roku książka znalazła się na Liście Honorowej IBBY.",
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Omówienie książki",
+        "url": "https://pl.wikipedia.org/wiki/Porwanie_w_Tiutiurlistanie"
+      }
+    ],
+    "genre": "Dla dzieci",
+    "editions": [
+      {
+        "year": "1946",
+        "description": "Pierwsze wydanie, Stefan Kamiński; ilustracje Adama Marczyńskiego."
+      },
+      {
+        "year": "2007",
+        "description": "Audiobook EZbook — czyta i śpiewa Jerzy Trela."
+      },
+      {
+        "year": "2010",
+        "description": "Babaryba — ilustracje Pawła Kłudkiewicza."
+      },
+      {
+        "year": "2015",
+        "description": "Audiobook Bellony — czyta Marian Opania."
+      }
+    ]
+  },
+  {
+    "title": "Z kraju milczenia",
+    "year": "1946",
+    "slug": "z-kraju-milczenia-1946",
+    "covers": [
+      "zdjecia/okladki/images/z_kraju_milczenia.jpg"
+    ],
+    "related": [],
+    "intro": "Historie żołnierzy i cywilów układają się w obraz wojny i okupacji. Opowiadania powstawały w latach 1939–1945 i wyrastają z doświadczeń autora.",
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Omówienie książki",
+        "url": "https://pl.wikipedia.org/wiki/Z_kraju_milczenia"
+      }
+    ],
+    "genre": "Opowiadania"
+  },
+  {
+    "title": "Piórkiem flaminga czyli opowiadania przewrotne",
+    "year": "1947",
+    "slug": "piorkiem-flaminga-czyli-opowiadania-przewrotne-1947",
+    "covers": [
+      "zdjecia/okladki/images/piorkiem_flaminga.jpg",
+      "zdjecia/okladki/images/piorkiem_flaminga2.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Omówienie książki",
+        "url": "https://jbc.bj.uj.edu.pl/Content/971876/NDIGCZAS101919_1947_011.pdf"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Humor, groteska i fantastyka odwracają zwykły porządek świata. Zbiór pokazuje przewrotną stronę pisarstwa Żukrowskiego."
+  },
+  {
+    "title": "Ręka ojca",
+    "year": "1948",
+    "slug": "reka-ojca-1948",
+    "covers": [
+      "zdjecia/okladki/images/reka_ojca.jpg",
+      "zdjecia/okladki/images/reka_ojca2.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Powieść",
+    "intro": "Styczeń 1945. Przypadkowych ludzi łączy pobyt w starym zamku."
+  },
+  {
+    "title": "Wiersze",
+    "year": "1948",
+    "slug": "wiersze-1948",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Poezja",
+    "intro": "Powojenne wydanie konspiracyjnego tomu „Rdza”."
+  },
+  {
+    "title": "Mądre zioła",
+    "year": "1951",
+    "slug": "madre-ziola-1951",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Powieść",
+    "intro": "Powieść o badaniach nad leczniczymi roślinami w powojennym Wrocławiu."
+  },
+  {
+    "title": "Córeczka",
+    "year": "1952",
+    "slug": "coreczka-1952",
+    "covers": [
+      "zdjecia/okladki/images/coreczka.jpg",
+      "zdjecia/okladki/images/coreczka2.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Dzieci i zwierzęta w ośmiu opowiadaniach."
+  },
+  {
+    "title": "Szabla Gabrysia",
+    "year": "1952",
+    "slug": "szabla-gabrysia-1952",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Dla młodzieży",
+    "intro": "Historyczne opowiadanie dla młodzieży."
+  },
+  {
+    "title": "Słoneczne lato",
+    "year": "1952",
+    "slug": "sloneczne-lato-1952",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Krótkie opowiadania o lesie, drzewach i drewnie."
+  },
+  {
+    "title": "Dni klęski",
+    "year": "1952",
+    "slug": "dni-kleski-1952",
+    "covers": [
+      "zdjecia/okladki/images/dni_kleski.jpg",
+      "zdjecia/okladki/images/dni_kleski2.jpg",
+      "zdjecia/okladki/images/dni_kleski3.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Powieść",
+    "intro": "Kampania wrześniowa, żołnierskie doświadczenia i bitwa pod Różanem."
+  },
+  {
+    "title": "Poszukiwacze skarbów",
+    "year": "1953",
+    "slug": "poszukiwacze-skarbow-1953",
+    "covers": [
+      "zdjecia/okladki/images/poszukiwacze.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Dla młodzieży",
+    "intro": "Powieść dla młodzieży, wydana przez Naszą Księgarnię."
+  },
+  {
+    "title": "W kamieniołomie i inne opowiadania",
+    "year": "1954",
+    "slug": "w-kamieniolomie-i-inne-opowiadania-1954",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Zbiór zawierający m.in. „Noce Ariadny”."
+  },
+  {
+    "title": "Dom bez ścian. Dziennik pobytu w Wietnamie",
+    "year": "1954",
+    "slug": "dom-bez-scian-dziennik-pobytu-w-wietnamie-1954",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Reportaż",
+    "intro": "Wędrówka przez wojenny Wietnam z przełomu 1953 i 1954 roku."
+  },
+  {
+    "title": "Ognisko w dżungli. Opowieści i baśnie z Wietnamu",
+    "year": "1955",
+    "slug": "ognisko-w-dzungli-opowiesci-i-basnie-z-wietnamu-1955",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Baśnie i opowieści",
+    "intro": "Wietnamskie opowieści i baśnie."
+  },
+  {
+    "title": "Desant na Kamiennej Wyspie",
+    "year": "1955",
+    "slug": "desant-na-kamiennej-wyspie-1955",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Reportaż",
+    "intro": "Epizody walk o chińskie wyspy w 1955 roku. Współautor: Janusz Przymanowski.",
+    "authors": [
+      "Wojciech Żukrowski",
+      "Janusz Przymanowski"
+    ]
+  },
+  {
+    "title": "Wybór opowiadań",
+    "year": "1956",
+    "slug": "wybor-opowiadan-1956",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Wybór krótkiej prozy autora."
+  },
+  {
+    "title": "Mój przyjaciel słoń",
+    "year": "1957",
+    "slug": "moj-przyjaciel-slon-1957",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Dla dzieci",
+    "intro": "Książka dla dzieci wydana przez Naszą Księgarnię."
+  },
+  {
+    "title": "Kantata",
+    "year": "1957",
+    "slug": "kantata-1957",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Wczesne opowiadania, powstałe w latach 1936–1945."
+  },
+  {
+    "title": "Opowieści z dreszczykiem",
+    "year": "1957",
+    "slug": "opowiesci-z-dreszczykiem-1957",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Antologia",
+    "intro": "Antologia opracowana z Tadeuszem Aleksandrem Malanowskim.",
+    "authors": [
+      "Wojciech Żukrowski",
+      "Tadeusz Aleksander Malanowski"
+    ],
+    "author_label": "Wybór i opracowanie"
+  },
+  {
+    "title": "Okruchy weselnego tortu",
+    "year": "1958",
+    "slug": "okruchy-weselnego-tortu-1958",
+    "covers": [
+      "zdjecia/okladki/images/okruchy_weselnego.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Poetycki powrót do dzieciństwa i zapamiętanego świata rodzinnego."
+  },
+  {
+    "title": "Wędrówki z moim Guru",
+    "year": "1960",
+    "slug": "wedrowki-z-moim-guru-1960",
+    "covers": [
+      "zdjecia/okladki/images/wedrowki_z_moim.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Opowieści podróżnicze",
+    "intro": "Opowieści indyjskie: codzienność, niezwykłe spotkania i humor."
+  },
+  {
+    "title": "Skąpani w ogniu",
+    "year": "1961",
+    "slug": "skapani-w-ogniu-1961",
+    "covers": [
+      "zdjecia/okladki/images/skapani_w.jpg"
+    ],
+    "related": [
+      {
+        "url": "filmy/skapani_w_ogniu.htm",
+        "title": "Ekranizacja"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Powieść",
+    "intro": "Losy dowódcy kompanii samochodowej w Polsce roku 1945."
+  },
+  {
+    "title": "W królestwie miliona słoni",
+    "year": "1961",
+    "slug": "w-krolestwie-miliona-sloni-1961",
+    "covers": [],
+    "related": [],
+    "notes": "Reportaż podróżniczy związany z pobytem autora w Laosie w 1961 roku.",
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Reportaż",
+    "intro": "Zapis podróży do Laosu w 1961 roku."
+  },
+  {
+    "title": "Nieśmiały narzeczony",
+    "year": "1964",
+    "slug": "niesmialy-narzeczony-1964",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Zbiór opowiadań, później wydawany wspólnie z „Piórkiem flaminga”."
+  },
+  {
+    "title": "Opowieści z Dalekiego Wschodu",
+    "year": "1965",
+    "slug": "opowiesci-z-dalekiego-wschodu-1965",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Reportaż",
+    "intro": "Relacje i reportaże z Wietnamu, Laosu oraz Indii."
+  },
+  {
+    "title": "Kamienne tablice",
+    "year": "1966",
+    "slug": "kamienne-tablice-1966",
+    "covers": [
+      "zdjecia/okladki/images/kamienne_tablice.jpg",
+      "zdjecia/okladki/images/kamienne_tablice2.jpg",
+      "zdjecia/okladki/images/kamienne_tablice3.jpg"
+    ],
+    "related": [
+      {
+        "url": "filmy/kamienne_tablice.htm",
+        "title": "Ekranizacja"
+      },
+      {
+        "url": "teksty/kt.htm",
+        "title": "Materiały o książce"
+      }
+    ],
+    "intro": "Delhi, rok 1956. Węgierski dyplomata Istvan Terey zakochuje się w australijskiej lekarce Margit. Uczucie zderza się z rodzinnymi zobowiązaniami i trudnymi wyborami, a codzienność bohaterów przenikają barwy i zapachy Indii.",
+    "notes": "Tytuł odwołuje się do tablic z Dziesięcioma Przykazaniami i moralnych wyborów bohaterów.",
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Paul Dry Books — Stone Tablets",
+        "url": "https://www.pauldrybooks.com/products/stone-tablets"
+      },
+      {
+        "title": "Wikipedia — Kamienne tablice",
+        "url": "https://pl.wikipedia.org/wiki/Kamienne_tablice"
+      }
+    ],
+    "genre": "Powieść",
+    "editions": [
+      {
+        "year": "1970",
+        "description": "Czeski przekład Heleny Teigovej — „Kamenné desky”, Odeon."
+      },
+      {
+        "year": "1992",
+        "description": "Przekład rosyjski w czasopiśmie „Nieva” — rok według zestawienia Wikipedii."
+      },
+      {
+        "year": "1994",
+        "description": "Muza — pełne wydanie bez ingerencji cenzury."
+      },
+      {
+        "year": "2012",
+        "description": "Audiobook MTJ — czyta Roman Felczyński."
+      },
+      {
+        "year": "2015",
+        "description": "Wznowienie Bellona–Albatros."
+      },
+      {
+        "year": "2016",
+        "description": "„Stone Tablets”, przekład Stephanie Kraft, Paul Dry Books."
+      }
+    ]
+  },
+  {
+    "title": "Szczęściarz",
+    "year": "1967",
+    "slug": "szczesciarz-1967",
+    "covers": [
+      "zdjecia/okladki/images/szczesciarz.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Zbiór opowiadań z 1967 roku."
+  },
+  {
+    "title": "Noce Ariadny",
+    "year": "1968",
+    "slug": "noce-ariadny-1968",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Tom łączy „Noce Ariadny” i „Tyrana, czyli portret trumienny”."
+  },
+  {
+    "title": "Lotna",
+    "year": "1969",
+    "slug": "lotna-1969",
+    "covers": [],
+    "related": [
+      {
+        "url": "filmy/lotna.htm",
+        "title": "Lotna na ekranie"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "IBL PAN — bibliografia",
+        "url": "https://pisarzeibadacze.ibl.edu.pl/haslo/1168/zukrowski-wojciech"
+      }
+    ],
+    "genre": "Opowiadanie",
+    "intro": "Historia obecna w tomie „Z kraju milczenia”; pierwodruk w „Twórczości” w 1945 roku.",
+    "notes": "Rok 1969 pochodzi z dotychczasowego zestawienia bibliograficznego i nie oznacza pierwodruku opowiadania."
+  },
+  {
+    "title": "Kierunek Berlin",
+    "year": "1970",
+    "slug": "kierunek-berlin-1970",
+    "covers": [
+      "zdjecia/okladki/images/kierunek_berlin.jpg"
+    ],
+    "related": [
+      {
+        "url": "filmy/kierunek_berlin.htm",
+        "title": "Film Kierunek Berlin"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Nowele filmowe",
+    "intro": "Zbiór nowel filmowych."
+  },
+  {
+    "title": "Wybór opowiadań",
+    "year": "1972",
+    "slug": "wybor-opowiadan-1972",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Wybór krótkiej prozy autora."
+  },
+  {
+    "title": "Karambole",
+    "year": "1973",
+    "slug": "karambole-1973",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Felietony",
+    "intro": "Felietony o książkach i pisarzach z „Nowych Książek”, 1967–1970."
+  },
+  {
+    "title": "W głębi zwierciadła. Gawędy o pisarzach i książkach",
+    "year": "1973",
+    "slug": "w-glebi-zwierciadla-gawedy-o-pisarzach-i-ksiazkach-1973",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Gawędy literackie",
+    "intro": "Gawędy poświęcone pisarzom i lekturom."
+  },
+  {
+    "title": "Plaża nad Styksem",
+    "year": "1976",
+    "slug": "plaza-nad-styksem-1976",
+    "covers": [
+      "zdjecia/okladki/images/plaza_nad_styksem.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Powieść",
+    "intro": "Cztery wiosenne dni w Rzymie podczas zjazdu pisarzy w 1968 roku."
+  },
+  {
+    "title": "Ostrożnie ze Złotym Lisem",
+    "year": "1978",
+    "slug": "ostroznie-ze-zlotym-lisem-1978",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Zbiór opowieści obejmujący m.in. „Tyrana” i utwór tytułowy."
+  },
+  {
+    "title": "Białe zaproszenie i inne opowiadania",
+    "year": "1979",
+    "slug": "biale-zaproszenie-i-inne-opowiadania-1979",
+    "covers": [
+      "zdjecia/okladki/images/biale_zaproszenia.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Zbiór krótkiej prozy wydany w 1979 roku."
+  },
+  {
+    "title": "Zapach psiej sierści",
+    "year": "1980",
+    "slug": "zapach-psiej-siersci-1980",
+    "covers": [
+      "zdjecia/okladki/images/zapach_psiej.jpg"
+    ],
+    "related": [
+      {
+        "url": "filmy/zapach_psiej.htm",
+        "title": "Ekranizacja"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Studio Filmowe Kadr — ekranizacja",
+        "url": "https://sfkadr.com/pl/movies/636/zapach-psiej-siersci.html"
+      }
+    ],
+    "genre": "Powieść",
+    "intro": "Powieść z 1980 roku, przeniesiona na ekran przez Jana Batorego. Filmowa adaptacja ukazała się w 1982 roku."
+  },
+  {
+    "title": "Opowiadania z czasu wojny",
+    "year": "1983",
+    "slug": "opowiadania-z-czasu-wojny-1983",
+    "covers": [
+      "zdjecia/okladki/images/opowiadania_z_czasow.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Poradnik Bibliotekarza, 1–2/1988",
+        "url": "https://pliki.sbp.pl/ac/2675_Por_Bibl_1988_01-02.pdf"
+      }
+    ],
+    "genre": "Opowiadania",
+    "intro": "Wojenna proza, m.in. „Lotna”, „Kola” i „W kamieniołomie”."
+  },
+  {
+    "title": "Na tronie w Blabonie",
+    "year": "1986",
+    "slug": "na-tronie-w-blabonie-1986",
+    "covers": [
+      "zdjecia/okladki/images/na_tronie.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Omówienie książki",
+        "url": "https://pl.wikipedia.org/wiki/Porwanie_w_Tiutiurlistanie"
+      }
+    ],
+    "genre": "Dla dzieci",
+    "intro": "Powrót do baśniowego świata „Porwania w Tiutiurlistanie”. Druga część rozwija losy bohaterów znanych z wcześniejszej książki."
+  },
+  {
+    "title": "Kamienny pies. Baśnie wietnamskie",
+    "year": "1989",
+    "slug": "kamienny-pies-basnie-wietnamskie-1989",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Baśnie",
+    "intro": "Zbiór baśni wietnamskich."
+  },
+  {
+    "title": "Rozmowy o książkach",
+    "year": "1989",
+    "slug": "rozmowy-o-ksiazkach-1989",
+    "covers": [],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "O literaturze",
+    "intro": "Książka poświęcona lekturom, opublikowana w 1989 roku."
+  },
+  {
+    "title": "Za kurtyną mroku. Zabawa w chowanego",
+    "year": "1995",
+    "slug": "za-kurtyna-mroku-zabawa-w-chowanego-1995",
+    "covers": [
+      "zdjecia/okladki/images/za_kurtyna.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Respectus Philologicus — opracowanie literackie",
+        "url": "https://www.journals.vu.lt/respectus-philologicus/en/article/download/13557/12471/19744"
+      }
+    ],
+    "genre": "Opowiadania i wspomnienia",
+    "intro": "Tom prozy łączący opowiadania z osobistą pamięcią. Część „Zabawa w chowanego” poświęcona jest wspomnieniom o zmarłych pisarzach."
+  },
+  {
+    "title": "Czarci tuzin",
+    "year": "2000",
+    "slug": "czarci-tuzin-2000",
+    "covers": [
+      "zdjecia/okladki/images/czarci.jpg"
+    ],
+    "related": [],
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      },
+      {
+        "title": "Omówienie książki",
+        "url": "https://www.polityka.pl/archiwumpolityki/1870406%2C1%2Cczartowa-trzynastka.read"
+      }
+    ],
+    "genre": "Opowiadania grozy",
+    "intro": "Trzynaście mrocznych historii, w których zwyczajność ustępuje miejsca lękowi i niesamowitości. Tom ukazał się pod koniec życia autora."
+  },
+  {
+    "title": "Zsyp ze śmietnika pamięci",
+    "year": "2002",
+    "slug": "zsyp-ze-smietnika-pamieci-2002",
+    "covers": [
+      "zdjecia/okladki/images/zsyp.jpg"
+    ],
+    "related": [
+      {
+        "url": "teksty/poslowie.htm",
+        "title": "Posłowie Katarzyny Żukrowskiej"
+      }
+    ],
+    "intro": "Niedokończone wspomnienia, opublikowane pośmiertnie w 2002 roku.",
+    "sources": [
+      {
+        "title": "Wikipedia — zestawienie twórczości",
+        "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BBukrowski#Twórczość"
+      }
+    ],
+    "genre": "Wspomnienia"
+  }
+]

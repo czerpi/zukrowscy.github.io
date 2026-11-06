@@ -1,0 +1,101 @@
+[
+  {
+    "url": "filmy/lotna.htm",
+    "title": "Lotna",
+    "year": "1959",
+    "image": "filmy/lotna.jpg",
+    "role": "Współautor scenariusza",
+    "description": "Literacki pierwowzór i współpraca przy scenariuszu.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/skapani_w_ogniu.htm",
+    "title": "Skąpani w ogniu",
+    "year": "1963",
+    "image": "filmy/skapani.jpg",
+    "role": "Scenariusz",
+    "description": "Film według własnej powieści pisarza.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/barwy_walki.htm",
+    "title": "Barwy walki",
+    "year": "1964",
+    "image": "filmy/barwy_walki.jpg",
+    "role": "Scenariusz",
+    "description": "Scenariusz adaptacji książki Mieczysława Moczara.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/kierunek_berlin.htm",
+    "title": "Kierunek Berlin",
+    "year": "1968",
+    "image": "filmy/kierunek_berlin.jpg",
+    "role": "Współautor scenariusza",
+    "description": "Scenariusz współtworzony z Jerzym Passendorferem.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/ostatnie_dni.htm",
+    "title": "Ostatnie dni",
+    "year": "1969",
+    "image": "filmy/ostatnie_dni.jpg",
+    "role": "Współautor scenariusza",
+    "description": "Kolejna współpraca scenariuszowa z Jerzym Passendorferem.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/pan_wolodyjowski.htm",
+    "title": "Pan Wołodyjowski",
+    "year": "1969",
+    "image": null,
+    "role": "Dialogi",
+    "description": "Udział w ekranizacji powieści Henryka Sienkiewicza w reżyserii Jerzego Hoffmana.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/zwyciestwo.htm",
+    "title": "Zwycięstwo",
+    "year": "1974",
+    "image": "filmy/zwyciestwo.jpg",
+    "role": "Współautor scenariusza",
+    "description": "Film ze scenariuszem Wojciecha Żukrowskiego i Jerzego Passendorfera.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/potop.htm",
+    "title": "Potop",
+    "year": "1974",
+    "image": "filmy/potop.jpg",
+    "role": "Współautor scenariusza",
+    "description": "Współpraca przy ekranizacji powieści Henryka Sienkiewicza.",
+    "group": "writing"
+  },
+  {
+    "url": "filmy/zapach_psiej.htm",
+    "title": "Zapach psiej sierści",
+    "year": "1982",
+    "image": "filmy/zapach_psiej.jpg",
+    "role": "Ekranizacja powieści",
+    "description": "Adaptacja prozy Żukrowskiego w reżyserii Jana Batorego.",
+    "group": "adaptation"
+  },
+  {
+    "url": "filmy/kamienne_tablice.htm",
+    "title": "Kamienne tablice",
+    "year": "1984",
+    "image": "filmy/kamienne_tablice.jpg",
+    "role": "Ekranizacja powieści",
+    "description": "Filmowa wersja powieści o uczuciach i wyborach bohaterów w Indiach.",
+    "group": "adaptation"
+  },
+  {
+    "url": "filmy/porwanie.htm",
+    "title": "Porwanie w Tiutiurlistanie",
+    "year": "1986",
+    "image": "filmy/porwanie.jpg",
+    "role": "Ekranizacja książki",
+    "description": "Animowana adaptacja baśniowej opowieści dla dzieci.",
+    "group": "adaptation"
+  }
+]
